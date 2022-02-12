@@ -24,6 +24,7 @@ public class Employee {
 	@Column(name = "last_name")
 	private String lastName;
 	
+	//Employee's email id
 	@Column(name = "email")
 	private String email;
 
