@@ -20,6 +20,7 @@ public class Employee {
 	@Column(name = "first_name")
 	private String firstName;
 	
+	//Employee's last name
 	@Column(name = "last_name")
 	private String lastName;
 	
